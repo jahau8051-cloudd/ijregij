@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# SQLite WAL files
+*.db-shm
+*.db-wal
+
+# Replit internal state
+.local/
+.replit
+replit.md
+replit_zip_error_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Local scripts
+start-hidden.vbs
+cleanup.cjs
+generate-egyptian-data.cjs
+handoff_report.md
+
+.vercel
