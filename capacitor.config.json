@@ -1,0 +1,6 @@
+{
+  "appId": "com.medidash.app",
+  "appName": "MediDash",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
